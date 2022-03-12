@@ -21,3 +21,7 @@ A Convolutional neural network is trained on data of 7 different pose to predict
 - The model is trained on 128 x 128 gray scale images of each class.
 - Test accuracy is 92 %.
 - Model prediction time is around 0.2 secs.
+
+## Tips
+- Before using controller run data collector to check your body posture is displayed as shown in data.
+- Try adjusting camera angle so that the postures match postures in data.
