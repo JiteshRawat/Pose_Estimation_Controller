@@ -25,3 +25,6 @@ A Convolutional neural network is trained on data of 7 different pose to predict
 ## Tips
 - Before using controller run data collector to check your body posture is displayed as shown in data.
 - Try adjusting camera angle so that the postures match postures in data.
+
+## Example
+![pose_control_gif](https://user-images.githubusercontent.com/73243338/158011963-292c219e-652b-4d8d-8b59-85e13d0fba7d.gif)
