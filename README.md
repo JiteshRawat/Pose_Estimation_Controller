@@ -10,7 +10,7 @@ A Convolutional neural network is trained on data of 7 different pose to predict
  
 ![body_pose_classes](https://user-images.githubusercontent.com/73243338/158011170-5eece4ab-5b66-4ba2-bfa9-dc9b28024b94.png)
   
-## Requirements and steps
+## Requirements and setup
 - You will require an android emulator like Bluestacks5. You can download it from https://www.bluestacks.com/
 - Download and install Shadow Fight 3.
 - Edit game control to the specified keys or edit the gameplay_controller.py for custom keys that are pressed using pyautogui when model predicts a pose.
