@@ -6,3 +6,8 @@ A Convolutional neural network is trained on data of 7 different pose to predict
   - 7 different pose recorded : stand, jump, duck, punch, throw, power.
   - 500 images 128 x 128 for each class.
   
+## Requirements and steps
+- You will require an android emulator like Bluestacks5
+- Download and install Shadow Fight 3
+- Edit game control to the specified keys or edit the gameplay_controller.py for custom keys that are pressed using pyautogui when model predicts a pose
+- You can access the model from here : https://drive.google.com/file/d/1UKfa_cSMnQftEFs4ix8bJ1LQwxoFUm8v/view?usp=sharing
