@@ -10,7 +10,7 @@ pose_names= {0: 'stand', 1: 'duck',
              4: 'power', 5: 'kick',
              6: 'throw'}
 
-model = load_model('Body_Pose_Model_v3')
+model = load_model('Body_Pose_Model.h5')
 
 #Using mediapipe pose solution
 mpPose = mp.solutions.pose
